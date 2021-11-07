@@ -14,7 +14,7 @@ for (int i=n-1;i>=0;i--)
 int main()
 {
   int n = 0;
-  reverse("test");
+  reverse_array("test");
   printf("%d\n", n);
    
 return 0;
