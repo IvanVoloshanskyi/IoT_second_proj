@@ -2,7 +2,7 @@
 #include<string.h>
 
 
-void reverse(char arr[])
+void reverse_array(char arr[])
 {
 int n = strlen(arr);
 for (int i=n-1;i>=0;i--)
